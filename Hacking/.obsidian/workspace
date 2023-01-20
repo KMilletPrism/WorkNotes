@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "5fa5a07b940206bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b42889485287b1e9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Admin/Scoping Calls - Web.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cacd22edd2afee6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a4950ba40796221",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abbe6c75611aa680",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c3290694a046f57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eac4b5e0c6f4be13",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7184e2dab1fb53d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d1155a95d3a0d11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b102c3bdaf22bc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Admin/Scoping Calls - Web.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "790aed79d1220d82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Admin/Scoping Calls - Web.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41dc35ee5d7bfe62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f07065e88be7889",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Admin/Scoping Calls - Web.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b42889485287b1e9",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Inf/Tools/Tools List.md",
+    "Inf/Untitled.md",
+    "Linux/Useful Commands.md",
+    "Web Apps/WordPress.md",
+    "Web Apps/Vulnerabilities/Host Header Injection.md",
+    "Web Apps/Vulnerabilities/Mass Assignment.md",
+    "Web Apps/Tools/Useful Burp Extensions.md",
+    "Web Apps/Tools/Tools List.md",
+    "Web Apps/Tools.md"
+  ]
+}

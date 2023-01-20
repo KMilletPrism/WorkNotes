@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "5fa5a07b940206bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9cc1af38f25f93b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b42889485287b1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Apps/Vulnerabilities/LFI via PDF Injection.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b52efb6203f18d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desktop Applications/Methodology & Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cacd22edd2afee6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a4950ba40796221",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abbe6c75611aa680",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c3290694a046f57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eac4b5e0c6f4be13",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7184e2dab1fb53d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d1155a95d3a0d11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b102c3bdaf22bc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Desktop Applications/Methodology & Tools.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "790aed79d1220d82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Desktop Applications/Methodology & Tools.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41dc35ee5d7bfe62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f07065e88be7889",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Desktop Applications/Methodology & Tools.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0b52efb6203f18d2",
+  "lastOpenFiles": [
+    "Web Apps/Vulnerabilities/LFI via PDF Injection.md",
+    "Web Apps/Vulnerabilities/Host Header Injection.md",
+    "Reporting/Report Quality.md",
+    "Admin/Scoping Calls - Web.md",
+    "External Inf/Methodology.md",
+    "Web Apps/Methodology.md",
+    "Web Apps/Vulnerabilities/CSRF.md",
+    "Phishing/Methodology.md",
+    "Web Apps/Untitled.md",
+    "Web Apps/Tools/Subdomain Enumeration.md"
+  ]
+}
