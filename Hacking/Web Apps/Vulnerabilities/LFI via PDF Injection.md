@@ -1,1 +1,0 @@
-https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read/
